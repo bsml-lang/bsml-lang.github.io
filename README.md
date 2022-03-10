@@ -1,5 +1,5 @@
 <img src="/images/bsml_logo.png"
-     alt="BSML Logo" width="200px"/>
+     alt="BSML Logo" width="200px" style="float: right"/>
 
 # BSML: Bulk Synchronous Parallel ML
 
