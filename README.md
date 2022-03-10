@@ -1,3 +1,7 @@
+<img src="images/bsml_logo.png"
+     alt="BSML Logo" width="128px"
+     style="float: right;" />
+
 # BSML: Bulk Synchronous Parallel ML
 
 If parallel programming is to become as widespread as sequential programming, the languages supporting it should incorporate all the standard abstraction mechanisms including higher order functions, recursion, pattern matching, etc.. Yet for such languages to be practical scalable programming tools, abstraction should not come at the price of predictable performance. Unfortunately many parallel languages don't describe data placement so that performance is not predictable as a function of the source program. This is because data placement depends on the language implementation, not its semantics.
@@ -88,8 +92,8 @@ Frédéric Loulergue, Virginia Niculescu, and Julien Tesson. Implementing powerl
 
 ### 2008
 
-F. Gava. A Modular Implementation of Parallel Data Structures in BSML. Parallel Processing Letters, 18(1):39-53, 2008
-F. Gava. BSP Functional Programming; Examples of a cost based methodology. In M. Bubak, G. D. van Albada, J. Dongarra, and P. M. A. Sloot, editors, The International Conference on Computational Science (ICCS), Part I, volume 5101 of LNCS, pages 375-385. Springer-Verlag, 2008
+- F. Gava. A Modular Implementation of Parallel Data Structures in BSML. Parallel Processing Letters, 18(1):39-53, 2008
+- F. Gava. BSP Functional Programming; Examples of a cost based methodology. In M. Bubak, G. D. van Albada, J. Dongarra, and P. M. A. Sloot, editors, The International Conference on Computational Science (ICCS), Part I, volume 5101 of LNCS, pages 375-385. Springer-Verlag, 2008
 
 ### 2007
 
@@ -102,7 +106,7 @@ F. Gava. BSP Functional Programming; Examples of a cost based methodology. In M.
 - L. Gesbert, F. Gava, F. Loulergue, and F. Dabrowski. Bulk Synchronous Parallel ML avec exceptions. In Rencontres Francophones du Parallélisme (Renpar'17), 2006
 - F. Loulergue, R. Benheddi, F. Gava, and D. Louis-Regis. Bulk Synchronous Parallel ML: Semantics and Implementation of the Parallel Juxtaposition. In International Computer Science Symposium in Russia (CSR 2006), volume 3967 of LNCS, pages 475-486. Springer, 2006
 - F. Loulergue. A Calculus of Functional BSP Programs with Projection. In International Parallel & Distributed Processing Symposium, 8th Workshop on Advances in Parallel and Distributed Computational Models. IEEE Computer Society Press, 2006
-F. Gava. Une implantation de la juxtaposition parallèle. In P.-E. Moreau and T. Hardin, editors, Journées Francophones des Langages Applicatifs (JFLA). INRIA, 2006.
+- F. Gava. Une implantation de la juxtaposition parallèle. In P.-E. Moreau and T. Hardin, editors, Journées Francophones des Langages Applicatifs (JFLA). INRIA, 2006.
 
 ### 2005
 
