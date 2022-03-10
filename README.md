@@ -15,32 +15,28 @@ A library for the [OCaml](https://ocaml.org) language, called BSML, has been des
 
 ### The BSML Library
 
-- Try BSML Online!
-- Beta version : BSML 0.5.4pre
-- Current version : BSML v0.5 (bsml-0.5.tar.gz, bsml-0.5_manual.pdf)
-- Old versions : ​v0.4 ​v0.26, ​v0.25, ​v0.2, ​v0.1
+- Try BSML [Online!](http://tesson.julien.free.fr/teaching/bsml/toplevel/)
+- Beta version : BSML [0.5.4pre](http://frederic.loulergue.eu/ftp/bsml-0.5.4pre.tar.gz)
+- Current version : BSML v0.5 ([bsml-0.5.tar.gz](/software/bsml-0.5.tar.gz), [bsml-0.5_manual.pdf](/documents/bsml-0.5_manual.pdf))
 
 ### Libraries for BSML
 
-- A BSPlib-like API for BSML ​bsml_bsplib_api-0.1.tar.gz
+- A BSPlib-like API for BSML [bsml_bsplib_api-0.1.tar.gz](http://frederic.loulergue.eu/ftp/bsml_bsplib_api-0.1.tar.gz)
 
 ### Related Software
 
-- MultiML: MultiML
-- Departmental Metacomputing ML: DMML
-- Minimally Synchronous Parallel ML: MSPML
+- Departmental Metacomputing ML: [DMML](http://frederic.loulergue.eu/research/dmml)
+- Minimally Synchronous Parallel ML: [MSPML](http://frederic.loulergue.eu/research/mspml)
+- MultiML
 
 ## Semantics and Verification
 
-- Certified BSML programs with Coq: v0.1, v0.2
-- Formal Semantics of Revised BSML in Coq v0.1alpha
 - Related project: [SyDPaCC](https://sydpacc.github.io)
 
 ## Team Members
 
 - Frédéric Loulergue (LIFO, University of Orléans, France)
-- Wadoud Bousdira (LIFO, University of Orléans, France)
-- Past members: Julien Tesson, Gaétan Hains, Olivier Ballereau, Armelle Merlin, David Billiet, Dimitri Louis-Régis, Radia Benheddi, Céline Ansault, Ilias Garnier, Louis Gesbert, Guillaume Petiot, Frédéric Gava
+- Past members: Julien Tesson, Wadoud Bousdira, Gaétan Hains, Olivier Ballereau, Armelle Merlin, David Billiet, Dimitri Louis-Régis, Radia Benheddi, Céline Ansault, Ilias Garnier, Louis Gesbert, Guillaume Petiot, Frédéric Gava
 
 Logo design: Clotilde Touze
 
